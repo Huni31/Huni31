@@ -1,7 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
 ### Language<br>
 <img src="https://img.shields.io/badge/TypeScript-0672d3?style=flat-square&logo=TypeScript&logoColor=white"/>
+
+<br>
+
+### Tools<br>
+<img src="https://img.shields.io/badge/Git-ff8a00?style=flat-square&logo=Git&logoColor=white"/>
+
 <!--
 **Huni31/Huni31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
