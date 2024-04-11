@@ -1,5 +1,5 @@
-<div stlye="text-align:center">
-  <h1> Hi there 👋</h1>
+<div style="text-align:center;">
+  # Hi there 👋
 
   ### Language<br>
   <img src="https://img.shields.io/badge/TypeScript-0672d3?style=flat-square&logo=TypeScript&logoColor=white"/>
