@@ -12,7 +12,7 @@
 <div align="center">
   <h3 align="center">🛠 Tools 🛠</h3>
   <img src="https://img.shields.io/badge/Angular-ff3900?style=for-the-badge&logo=Angular&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-ff8a00.svg?style=for-the-badgee&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-ff8a00.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
 
 <!--
