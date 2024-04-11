@@ -1,5 +1,5 @@
 <h2 align="center">
-  # Hi there 👋
+  Hi there 👋
 </h2>
 
 <br>
@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <h3 align="center"> Tools </h3>
+  <h3 align="center">🛠 Tools 🛠</h3>
   <img src="https://img.shields.io/badge/Angular-ff3900?style=flat-square&logo=Angular&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-ff8a00?style=flat-square&logo=Git&logoColor=white"/>
 </div>
