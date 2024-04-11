@@ -1,9 +1,13 @@
-<div style="text-align:center;">
+<div align="center">
   # Hi there 👋
+</div>
 
+<div align="center">
   ### Language<br>
   <img src="https://img.shields.io/badge/TypeScript-0672d3?style=flat-square&logo=TypeScript&logoColor=white"/>
-  
+</div>
+
+<div align="center">
   ### Tools<br>
   <img src="https://img.shields.io/badge/Angular-ff3900?style=flat-square&logo=Angular&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-ff8a00?style=flat-square&logo=Git&logoColor=white"/>
