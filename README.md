@@ -2,8 +2,6 @@
   Hi there 👋
 </h2>
 
-<br>
-
 <div align="center">
   <h3 align="center"> Language </h3>
   <img src="https://img.shields.io/badge/TypeScript-0672d3?style=flat-square&logo=TypeScript&logoColor=white"/>
