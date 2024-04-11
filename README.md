@@ -2,13 +2,17 @@
   # Hi there 👋
 </div>
 
+<br>
+
 <div align="center">
-  ### Language<br>
+  <h3 align="center"> Language </h3>
   <img src="https://img.shields.io/badge/TypeScript-0672d3?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 
+<br>
+
 <div align="center">
-  ### Tools<br>
+  <h3 align="center"> Tools </h3>
   <img src="https://img.shields.io/badge/Angular-ff3900?style=flat-square&logo=Angular&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Git-ff8a00?style=flat-square&logo=Git&logoColor=white"/>
 </div>
