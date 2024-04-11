@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3 align="center"> Language </h3>
-  <img src="https://img.shields.io/badge/TypeScript-0672d3?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-0672d3.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 </div>
 
 <br>
