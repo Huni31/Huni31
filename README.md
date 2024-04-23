@@ -30,7 +30,9 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huni31&show_icons=true&theme=radical)
+<div align="center">
+  ![Huni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huni31&show_icons=true&theme=radical)
+</div>
 
 <!--
 **Huni31/Huni31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
