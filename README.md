@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huni31&show_icons=true&theme=radical)
+  ![Huni31's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huni31&show_icons=true&theme=radical)
 </div>
 ![Huni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huni31&show_icons=true&theme=radical)
 <!--
