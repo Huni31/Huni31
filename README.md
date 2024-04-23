@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Huni31=anuraghazra&show_icons=true&theme=radical)
+
 <!--
 **Huni31/Huni31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
